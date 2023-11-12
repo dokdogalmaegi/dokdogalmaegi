@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Junyeong%20Lim&fontAlignY=30&fontSize=45&descAlignY=55&descAlign=70&desc=Dokdogalmaegi" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Junyeong%20Lim&fontAlignY=30&fontSize=45&descAlignY=50&descAlign=70&desc=Development%20for%20All" width="100%">
 
 # 임준영 (dokdogalmaegi)
 
