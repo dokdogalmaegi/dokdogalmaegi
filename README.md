@@ -30,4 +30,4 @@ _Devoted to saving a user's minute with an hour of development, **Junyeong Lim**
 </div>
 
 ## 📫 연락처
-[블로그](http://dokdogalmaegi.tistory.com/) | [LinkedIn](www.linkedin.com/in/junyeong-lim-235a65224)
+[블로그](http://dokdogalmaegi.tistory.com/) | [LinkedIn](https://www.linkedin.com/in/junyeong-lim-235a65224/)
