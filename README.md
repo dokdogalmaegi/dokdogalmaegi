@@ -7,8 +7,8 @@
 _Devoted to saving a user's minute with an hour of development, **Junyeong Lim** is a developer committed to creating convenient user-centric features, with a motto of 'Development for All'._
 
 ## 🚀 경력
-- **2022.02 ~ 현재:** 성능 모니터링 RUM Raygun 도입 후 cubeBUILDER & cubeCDMS 솔루션 성능 모니터링 및 개선. 평균 20 ~ 50% 성능 개선, 최대 97%까지 성능 개선 달성.  
-  _Since Feb 2022: Introduced RUM Raygun for performance monitoring of cubeBUILDER & cubeCDMS solutions, achieving 20 ~ 50% average performance improvement, up to a maximum of 97%._
+- **2022.02 ~ 현재:** 성능 모니터링 RUM Raygun 도입 후 cubeBUILDER & cubeCDMS 솔루션 성능 모니터링 및 개선. 평균 20 ~ 50% 성능 개선, 최대 97%까지 성능 개선 달성. (4분 57초 -> 8초)
+  _Since Feb 2022: Introduced RUM Raygun for performance monitoring of cubeBUILDER & cubeCDMS solutions, achieving 20 ~ 50% average performance improvement, up to a maximum of 97%. (4m 57s -> 8s)_
 - **2022.10 ~ 2023.01:** 서울디지텍고등학교 Node.js 방과후 강사.  
   _Oct 2022 - Jan 2023: Node.js after-school instructor at Seoul Digitech High School._
 - **2023.01 ~ 2023.03:** 고등학생 겨울 방학 토이 프로젝트 멘토링.  
